@@ -2,9 +2,9 @@
 
    
 
-Ce projet de Data Science vise à construire un modèle de Machine Learning capable de prédire l'issue des matchs de football de la Ligue 1 pour la saison 2023. Le problème est traité comme une classification multi-classes : **Victoire Domicile (1)**, **Nul (0)**, **Victoire Extérieur (-1)**.
+Ce projet de Machine Learning vise à construire un modèle de capable de prédire l'issue des matchs de football de la Ligue 1 pour la saison 2023. Le problème est traité comme une classification multi-classes : **Victoire Domicile (1)**, **Nul (0)**, **Victoire Extérieur (-1)**.
 
-##  Auteurs (Équipe Data Science)
+##  Auteurs
 
   * **Matteo DUPIN**
   * **Ayoub EL AMRANI**
