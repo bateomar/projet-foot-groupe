@@ -58,7 +58,7 @@ Nous avons utilisé un **Split Temporel** (Train \< 2022, Test = 2022) pour vali
 
 | Modèle | Accuracy | F1-Macro | Observation |
 | :--- | :---: | :---: | :--- |
-| **Random Forest (GridSearch)** | 0.489 | **0.440** | 🏆 **Meilleur Modèle (Retenu)** |
+| **Random Forest (GridSearch)** | 0.489 | **0.440** |  **Meilleur Modèle (Retenu)** |
 | Régression Logistique (Grid) | 0.497 | 0.427 | Difficulté à capturer la non-linéarité |
 | XGBoost (Grid) | **0.511** | 0.399 | Sur-apprentissage de la classe majoritaire |
 
